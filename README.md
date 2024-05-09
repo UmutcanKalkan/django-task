@@ -52,3 +52,6 @@ python manage.py migrate`
 
 Ayağa kalkan react projesine register olarak ya da django projesinden superuser yaratarak giriş yapabilirsiniz. Loginden sonra sayfayı yenilemeniz gerekmektedir. Her kullanıcı Drone ekleyebilir ve kiralayabilir. Kullanıcılar sadece kendi kiraları görebilir ancak superuser iseniz her kiraya müdahale edebilirsiniz. Kiralama sırasında droneların uygunluğu kontrol edilmemektedir.
 
+NOT: Rentlerin edit seçeneği row'a tıklanarak açılmaktadır Dronelar için ise buton bulunmaktadır.
+
+![ScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif](..%2F..%2F..%2FDownloads%2FScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif)
