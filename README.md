@@ -54,4 +54,4 @@ Ayağa kalkan react projesine register olarak ya da django projesinden superuser
 
 NOT: Rentlerin edit seçeneği row'a tıklanarak açılmaktadır Dronelar için ise buton bulunmaktadır.
 
-![ScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif](..%2F..%2F..%2FDownloads%2FScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif)
+![ScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif](ScreenRecording2024-05-09at15.45.26-ezgif.com-video-to-gif-converter.gif)
